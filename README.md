@@ -1,7 +1,7 @@
 # Hi there, I'm Alexis Diaz! 👋
 Hi! Welcome to my GitHub profile. I’m a software engineer focused on developing applications and technical solutions. Here, I share some of the projects I’ve worked on, both personal and professional.
 ## 🚀 About me.
-- 🌐 I am a full-stack developer with experience in a variety of technologies including Java,JavaScript and Python. 
+- 🌐 I am a full-stack developer with experience in a variety of technologies including Java, JavaScript and Python. 
 - 🎓 Finishing my degree in Software Engineering and have a strong background in networking and cloud principles.
 - 💼 Currently, I work as a Freelancer, where I facilitate the needs of my clients.
 - 💡 I am always willing to learn new things and take on challenging tasks.
