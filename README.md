@@ -1,17 +1,17 @@
 # Hi there, I'm Alexis Diaz! 👋
 Hi! Welcome to my GitHub profile. I’m a software engineer focused on developing applications and technical solutions. Here, I share some of the projects I’ve worked on, both personal and professional.
 ## 🚀 About me.
-- 🌐 I am a full-stack developer with experience in a variety of technologies including Java, JavaScript and Python. 
-- 🎓 Finishing my degree in Software Engineering and have a strong background in networking and cloud principles.
+- 🌐 I am a developer with experience in a variety of technologies including Java, JavaScript. 
+- 🎓 Finishing my degree in Software Engineering and have a strong background in networking.
 - 💼 Currently, I work as a Freelancer, where I facilitate the needs of my clients.
 - 💡 I am always willing to learn new things and take on challenging tasks.
 
 Translated with DeepL.com (free version)
 ## 🛠️ Technologies & Tools
-- **Languages:** Java, JavaScript (React, Node.js), Python (Django, Flask), 
+- **Languages:** Java, JavaScript (React) 
 - **Databases:** MySQL, PostgreSQL,
 - **Tools:** Git
-- **Cloud:** AWS
+- **Cloud:** 
 
 ## 📈 GitHub Stats
 ![AlexisDiaz000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisDiaz000&show_icons=true&theme=radical)
